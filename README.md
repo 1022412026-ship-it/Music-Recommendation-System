@@ -24,8 +24,7 @@ The working dataset contains approximately 1.14 million tracks.
 File expected by the application:
 `data/clean_music_dataset.csv`
 
-Dataset source: ADD YOUR ORIGINAL DATASET LINK HERE.
-
+Dataset source: (https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs)
 The dataset is not included in this repository because of its large file size. Download it from the original source and place the cleaned CSV in the `data` folder.
 
 ## How to Run
